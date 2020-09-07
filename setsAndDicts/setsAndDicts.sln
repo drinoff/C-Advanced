@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30225.117
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "countSameValuesinArr", "countSameValuesinArr\countSameValuesinArr.csproj", "{58AC5BFD-3BFE-49EF-AECE-FF7373D470FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "countSameValuesinArr", "countSameValuesinArr\countSameValuesinArr.csproj", "{58AC5BFD-3BFE-49EF-AECE-FF7373D470FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "averageStudentsGrade", "averageStudentsGrade\averageStudentsGrade.csproj", "{253B7BDA-6AAA-49B7-9FEF-B63C3E9A72A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "averageStudentsGrade", "averageStudentsGrade\averageStudentsGrade.csproj", "{253B7BDA-6AAA-49B7-9FEF-B63C3E9A72A7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "productShop", "productShop\productShop.csproj", "{EF3B8ABD-EA56-48E8-9745-9A2D8E2E769F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "citiesByContinentAndCountry", "citiesByContinentAndCountry\citiesByContinentAndCountry.csproj", "{ABD9783F-02E4-46A1-AF28-77CCA13D515B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{253B7BDA-6AAA-49B7-9FEF-B63C3E9A72A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{253B7BDA-6AAA-49B7-9FEF-B63C3E9A72A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{253B7BDA-6AAA-49B7-9FEF-B63C3E9A72A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF3B8ABD-EA56-48E8-9745-9A2D8E2E769F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF3B8ABD-EA56-48E8-9745-9A2D8E2E769F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF3B8ABD-EA56-48E8-9745-9A2D8E2E769F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF3B8ABD-EA56-48E8-9745-9A2D8E2E769F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABD9783F-02E4-46A1-AF28-77CCA13D515B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABD9783F-02E4-46A1-AF28-77CCA13D515B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABD9783F-02E4-46A1-AF28-77CCA13D515B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABD9783F-02E4-46A1-AF28-77CCA13D515B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
