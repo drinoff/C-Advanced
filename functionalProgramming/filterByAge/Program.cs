@@ -19,7 +19,7 @@ namespace filterByAge
         static void Main(string[] args)
         {
             var count = int.Parse(Console.ReadLine());
-            List<Person> ppl = new List<Person>();
+            var ppl = new List<Person>();
 
             for (int i = 0; i < count; i++)
             {
@@ -33,20 +33,11 @@ namespace filterByAge
             var condition = Console.ReadLine();
             var age = int.Parse(Console.ReadLine());
             var format = Console.ReadLine();
-            Func<Person, bool> condChecker;
-
-            switch (condition)
+            Func<Person, bool> condChecker = condition switch
             {
-                case "younger":
-                    condChecker = c => c.Age < age;
-                    break;
-                default:
-                    condChecker = c => c.Age >= age;
-                    break;
-                
-
-                
-            }
+                "younger" => c => c.Age < age,
+                _ => c => c.Age >= age,
+            };
             var filteredppl = ppl.Where(condChecker);
 
             foreach (var person in filteredppl)
