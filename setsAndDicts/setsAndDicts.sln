@@ -11,11 +11,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "productShop", "productShop\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "citiesByContinentAndCountry", "citiesByContinentAndCountry\citiesByContinentAndCountry.csproj", "{ABD9783F-02E4-46A1-AF28-77CCA13D515B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "recordUniqueNames", "recordUniqueNames\recordUniqueNames.csproj", "{98E87D66-F260-4EC9-994D-978C751EE5B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "recordUniqueNames", "recordUniqueNames\recordUniqueNames.csproj", "{98E87D66-F260-4EC9-994D-978C751EE5B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "parkingLot", "parkingLot\parkingLot.csproj", "{C3276BD2-5549-4B28-AA16-9634C5A3F7F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "parkingLot", "parkingLot\parkingLot.csproj", "{C3276BD2-5549-4B28-AA16-9634C5A3F7F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "softUniParty", "softUniParty\softUniParty.csproj", "{FA03A8C6-9126-4B69-B7FC-9D0138ACB871}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "softUniParty", "softUniParty\softUniParty.csproj", "{FA03A8C6-9126-4B69-B7FC-9D0138ACB871}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uniqueUsernames", "uniqueUsernames\uniqueUsernames.csproj", "{07F5DCB7-EA54-4767-B6B8-22D44F5683BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "setsOfElements", "setsOfElements\setsOfElements.csproj", "{74397614-FFAA-4CD9-85D2-7F54C6A0CC10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "periodicTable", "periodicTable\periodicTable.csproj", "{DCC13343-79AC-45D8-B4AE-FB83C77580F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "evenTimes", "evenTimes\evenTimes.csproj", "{B3EBF946-0CAC-484C-9221-AE39DEF4360D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "countSymbols", "countSymbols\countSymbols.csproj", "{22FA3CCA-BE20-4608-9E0C-1DBAB4432404}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wardrobe", "wardrobe\wardrobe.csproj", "{BE1FBD84-F33D-4E9B-87B3-0C692673ADEB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +63,30 @@ Global
 		{FA03A8C6-9126-4B69-B7FC-9D0138ACB871}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA03A8C6-9126-4B69-B7FC-9D0138ACB871}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA03A8C6-9126-4B69-B7FC-9D0138ACB871}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07F5DCB7-EA54-4767-B6B8-22D44F5683BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07F5DCB7-EA54-4767-B6B8-22D44F5683BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07F5DCB7-EA54-4767-B6B8-22D44F5683BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07F5DCB7-EA54-4767-B6B8-22D44F5683BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74397614-FFAA-4CD9-85D2-7F54C6A0CC10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74397614-FFAA-4CD9-85D2-7F54C6A0CC10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74397614-FFAA-4CD9-85D2-7F54C6A0CC10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74397614-FFAA-4CD9-85D2-7F54C6A0CC10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCC13343-79AC-45D8-B4AE-FB83C77580F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCC13343-79AC-45D8-B4AE-FB83C77580F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCC13343-79AC-45D8-B4AE-FB83C77580F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCC13343-79AC-45D8-B4AE-FB83C77580F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3EBF946-0CAC-484C-9221-AE39DEF4360D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3EBF946-0CAC-484C-9221-AE39DEF4360D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3EBF946-0CAC-484C-9221-AE39DEF4360D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3EBF946-0CAC-484C-9221-AE39DEF4360D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22FA3CCA-BE20-4608-9E0C-1DBAB4432404}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22FA3CCA-BE20-4608-9E0C-1DBAB4432404}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22FA3CCA-BE20-4608-9E0C-1DBAB4432404}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22FA3CCA-BE20-4608-9E0C-1DBAB4432404}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE1FBD84-F33D-4E9B-87B3-0C692673ADEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE1FBD84-F33D-4E9B-87B3-0C692673ADEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE1FBD84-F33D-4E9B-87B3-0C692673ADEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE1FBD84-F33D-4E9B-87B3-0C692673ADEB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
