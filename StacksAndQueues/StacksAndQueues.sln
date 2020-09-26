@@ -34,12 +34,16 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "truckTour", "truckTour\truckTour.csproj", "{1BB841EC-8F67-4657-9EB5-BAB272C98B01}"
 EndProject
 <<<<<<< HEAD
+<<<<<<< HEAD
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "balancedParanthesis", "balancedParanthesis\balancedParanthesis.csproj", "{021469E5-19D4-4FAD-8037-D42C61711B42}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "simpleTextEditor", "simpleTextEditor\simpleTextEditor.csproj", "{2F476D2B-A713-4F49-B02F-F8BF840F0049}"
 =======
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "balancedParanthesis", "balancedParanthesis\balancedParanthesis.csproj", "{97081A5B-7E66-4167-8424-6A909D13A19F}"
 >>>>>>> 1ac0143a3ba88ee8f1d4b21a60a00c74f6d19c40
+=======
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "crossroads", "crossroads\crossroads.csproj", "{F78FD6AC-9F36-48C6-8622-3B4E7A164711}"
+>>>>>>> aaa51171b4841e31fd440d63f678f843f3d44030
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -108,6 +112,7 @@ Global
 		{1BB841EC-8F67-4657-9EB5-BAB272C98B01}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BB841EC-8F67-4657-9EB5-BAB272C98B01}.Release|Any CPU.Build.0 = Release|Any CPU
 <<<<<<< HEAD
+<<<<<<< HEAD
 		{021469E5-19D4-4FAD-8037-D42C61711B42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{021469E5-19D4-4FAD-8037-D42C61711B42}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{021469E5-19D4-4FAD-8037-D42C61711B42}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -122,6 +127,12 @@ Global
 		{97081A5B-7E66-4167-8424-6A909D13A19F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{97081A5B-7E66-4167-8424-6A909D13A19F}.Release|Any CPU.Build.0 = Release|Any CPU
 >>>>>>> 1ac0143a3ba88ee8f1d4b21a60a00c74f6d19c40
+=======
+		{F78FD6AC-9F36-48C6-8622-3B4E7A164711}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F78FD6AC-9F36-48C6-8622-3B4E7A164711}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F78FD6AC-9F36-48C6-8622-3B4E7A164711}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F78FD6AC-9F36-48C6-8622-3B4E7A164711}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> aaa51171b4841e31fd440d63f678f843f3d44030
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
