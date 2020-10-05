@@ -13,15 +13,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "addVAT", "addVAT\addVAT.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "filterByAge", "filterByAge\filterByAge.csproj", "{6BAEFE1B-CDB1-4493-B96E-DEF73CA40CEC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "actionPoint", "actionPoint\actionPoint.csproj", "{2419B0ED-1B4F-47D1-A7FC-7AA6B010ADB2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "actionPoint", "actionPoint\actionPoint.csproj", "{2419B0ED-1B4F-47D1-A7FC-7AA6B010ADB2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "knightsOfHonor", "knightsOfHonor\knightsOfHonor.csproj", "{D563493C-CC7F-4204-9C89-7C3CA53F7DB5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "knightsOfHonor", "knightsOfHonor\knightsOfHonor.csproj", "{D563493C-CC7F-4204-9C89-7C3CA53F7DB5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "customMinFunc", "customMinFunc\customMinFunc.csproj", "{5DA88E90-5595-4FE1-91C5-A603B32B2590}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "customMinFunc", "customMinFunc\customMinFunc.csproj", "{5DA88E90-5595-4FE1-91C5-A603B32B2590}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "findEvenOrOdd", "findEvenOrOdd\findEvenOrOdd.csproj", "{5E8C4B9C-CCF2-472B-BA4E-A851FFAD095B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "findEvenOrOdd", "findEvenOrOdd\findEvenOrOdd.csproj", "{5E8C4B9C-CCF2-472B-BA4E-A851FFAD095B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "appliedArithmetics", "appliedArithmetics\appliedArithmetics.csproj", "{778BB790-6CFC-48AB-B530-92270CE34F84}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "appliedArithmetics", "appliedArithmetics\appliedArithmetics.csproj", "{778BB790-6CFC-48AB-B530-92270CE34F84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reverseAndExclude", "reverseAndExclude\reverseAndExclude.csproj", "{A2F13AAC-248A-4093-989A-22453532655D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "predicateForNames", "predicateForNames\predicateForNames.csproj", "{8B2258A8-4FC5-4A38-8ACC-376AE5BD696A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "customComparator", "customComparator\customComparator.csproj", "{36408B1E-0E38-415D-867C-7274D8300CE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "listOfPredictes", "listOfPredictes\listOfPredictes.csproj", "{D77AC504-AE5B-48D4-A99C-6F6B937630B2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +77,22 @@ Global
 		{778BB790-6CFC-48AB-B530-92270CE34F84}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{778BB790-6CFC-48AB-B530-92270CE34F84}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{778BB790-6CFC-48AB-B530-92270CE34F84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2F13AAC-248A-4093-989A-22453532655D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2F13AAC-248A-4093-989A-22453532655D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2F13AAC-248A-4093-989A-22453532655D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2F13AAC-248A-4093-989A-22453532655D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B2258A8-4FC5-4A38-8ACC-376AE5BD696A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B2258A8-4FC5-4A38-8ACC-376AE5BD696A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B2258A8-4FC5-4A38-8ACC-376AE5BD696A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B2258A8-4FC5-4A38-8ACC-376AE5BD696A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36408B1E-0E38-415D-867C-7274D8300CE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36408B1E-0E38-415D-867C-7274D8300CE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36408B1E-0E38-415D-867C-7274D8300CE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36408B1E-0E38-415D-867C-7274D8300CE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D77AC504-AE5B-48D4-A99C-6F6B937630B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D77AC504-AE5B-48D4-A99C-6F6B937630B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D77AC504-AE5B-48D4-A99C-6F6B937630B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D77AC504-AE5B-48D4-A99C-6F6B937630B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
