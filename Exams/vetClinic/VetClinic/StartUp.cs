@@ -19,6 +19,7 @@ namespace VetClinic
             clinic.Add(dog);
 
             // Remove Pet
+            //test
             Console.WriteLine(clinic.Remove("Ellias")); // True
             Console.WriteLine(clinic.Remove("Pufa")); // False
 
