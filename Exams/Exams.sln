@@ -15,9 +15,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "snake", "snake\snake.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parking", "Parking\Parking\Parking.csproj", "{7BB6D809-09CA-4D0B-AAD2-5034D7EF704D}"
 EndProject
+<<<<<<< HEAD
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lootbox", "lootbox\lootbox.csproj", "{69B76C4A-FAB9-451D-A971-64893EAD53A9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reVolt", "reVolt\reVolt.csproj", "{EB4B5227-BD47-46C8-876C-D6CA36039F25}"
+=======
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Heroes", "Heroes\Heroes.csproj", "{C624A07B-6E6F-4EBE-A027-0F903B705A80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clubParty", "clubParty\clubParty.csproj", "{6CCFB324-5F26-4331-8548-984FF6B5FD4A}"
+>>>>>>> 5bc2b55c175433320e4b3f17b442643e9983f34f
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -49,6 +55,7 @@ Global
 		{7BB6D809-09CA-4D0B-AAD2-5034D7EF704D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7BB6D809-09CA-4D0B-AAD2-5034D7EF704D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7BB6D809-09CA-4D0B-AAD2-5034D7EF704D}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< HEAD
 		{69B76C4A-FAB9-451D-A971-64893EAD53A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{69B76C4A-FAB9-451D-A971-64893EAD53A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69B76C4A-FAB9-451D-A971-64893EAD53A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -57,6 +64,16 @@ Global
 		{EB4B5227-BD47-46C8-876C-D6CA36039F25}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB4B5227-BD47-46C8-876C-D6CA36039F25}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB4B5227-BD47-46C8-876C-D6CA36039F25}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+		{C624A07B-6E6F-4EBE-A027-0F903B705A80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C624A07B-6E6F-4EBE-A027-0F903B705A80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C624A07B-6E6F-4EBE-A027-0F903B705A80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C624A07B-6E6F-4EBE-A027-0F903B705A80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CCFB324-5F26-4331-8548-984FF6B5FD4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CCFB324-5F26-4331-8548-984FF6B5FD4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CCFB324-5F26-4331-8548-984FF6B5FD4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CCFB324-5F26-4331-8548-984FF6B5FD4A}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> 5bc2b55c175433320e4b3f17b442643e9983f34f
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
